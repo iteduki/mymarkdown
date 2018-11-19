@@ -1,3 +1,9 @@
+　[Vue.jsとFirebaseで作るミニWebサービス](http://www.amazon.co.jp/exec/obidos/ASIN/B07HXMHQQK/mistolteen-22/)の写経
+ 
+# サンプルコード正誤表
+https://github.com/nabettu/mymarkdown
+
+
 # mymarkdown
 
 > A Vue.js project
