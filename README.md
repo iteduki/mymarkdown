@@ -20,12 +20,6 @@ npm run dev
 # build for production with minification
 npm run build
 
-# css install
-npm install shitajicss
-
-# install firebase tool
-npm install firebase-tools
-
 # deploy firebase
 firebase deploy
 ```
